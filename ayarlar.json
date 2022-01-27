@@ -1,0 +1,39 @@
+{
+    "Sistem": {
+        "Token": "",
+        "Prefix": "",
+        "SunucuID": "",
+        "MongoDB": ""
+    },
+
+    "Bot": {
+        "Owner": "545976310342746152",
+        "Footer": "Wonxen ❤️ Server",
+        "Voice": "",
+        "Text": "Wonxen ❤️ Server",
+        "Type": "WATCHING",
+        "Status": "idle"
+    },
+
+    "Channel": {
+        "Log": ""
+    },
+
+    "Emoji": {
+        "Xp": "",
+        "Oks": "",
+        "Yildiz": "",
+        
+        "Ses": "",
+        "Sohbet": "",
+    
+        "BosBaslangicBar": "",
+        "BosOrtaBar": "",
+        "BosSonBar": "",
+    
+        "DoluBaslangicBar": "",
+        "DoluOrtaBar": "",
+        "DoluSonBar": ""
+    }
+
+}
