@@ -216,12 +216,5 @@ client.on("guildCreate", (guild) => {
 	}).catch(e => {})
 });
 
-
-client.on('message', async message => {
-if (message.content === '.fakekatıl') { // . yerine prefixi yaz
-  client.emit('guildMemberAdd', message.member || await message.guild.fetchMember(message.author));
-    }
-});
-
 //--------------------------------------------------//--------------------------------------------------//--------------------------------------------------
 //--------------------------------------------------//--------------------------------------------------//--------------------------------------------------
