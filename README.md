@@ -5,8 +5,7 @@
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Daha sonra bir [MongoDB](http://mongodb.com) hesabı oluştur ve connection linki al.
-* Bu projeyi zip halinde indir.
-* Herhangi bir klasöre zipi çıkart.
+* Bu projeyi zip halinde indir herhangi bir klasöre zipi çıkar
 * Daha sonra `ayarlar.json` dosyasının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
