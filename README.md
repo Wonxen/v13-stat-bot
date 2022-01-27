@@ -7,7 +7,7 @@
 * Daha sonra bir [MongoDB](http://mongodb.com) hesabı oluştur ve connection linki al.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra src klasörünün içindeki configs klasörünün içine gir `config.json` dosyasının içindeki bilgileri doldur.
+* Daha sonra `ayarlar.json` dosyasının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
