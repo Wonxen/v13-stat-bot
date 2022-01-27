@@ -19,7 +19,7 @@
 * [Discow Discord Profili](https://discord.com/users/746066222310883339)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
-# Bot
+# Görseller
 
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png)
