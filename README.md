@@ -19,4 +19,8 @@
 * [Discow Discord Profili](https://discord.com/users/746066222310883339)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
-### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+# Bot
+
+![image](https://cdn.discordapp.com/attachments/935410588916527174/936243858180829204/unknown.png)
+
+### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır.
