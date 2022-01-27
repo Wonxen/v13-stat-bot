@@ -1,7 +1,6 @@
 # Butonlu Stats Bot
 
-# Bot hakkında
-* Bot kodlar ve yardımları için [Discow'a](https://github.com/DiscowJS?tab=repositories) teşekkürler bazı eksikler var ilerki günlerde geliştirip eklenecektir.
+* Bot kodları ve yardımları için [Discow'a](https://github.com/DiscowJS?tab=repositories) teşekkürler bazı eksikler var ilerki günlerde geliştirip eklenecektir.
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
