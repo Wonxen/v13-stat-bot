@@ -25,11 +25,9 @@ Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Mail Gönd
  <details>
     <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
     <p align="center">
-      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png)
-     
-      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png)
-     
-      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245759123271750/unknown.png)
+     <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png">
+     <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png">
+     <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245759123271750/unknown.png">
   </p>
   </details>
   
