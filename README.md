@@ -1,27 +1,34 @@
-# Butonlu Stats Bot
+# Wonxen Stat Bot
 
-* Bot kodları ve yardımları için [Discow'a](https://github.com/DiscowJS?tab=repositories) teşekkürler bazı eksikler var (.top vb komutlar gibi) ilerki günlerde geliştirip eklenecektir starlarınız bekliyorum.
+Öncelikle herkese merhaba 👋. Hazırlamış olduğum bu stat botu projesini paylaşıyorum. İndirip dilediğiniz gibi kullanabilirsiniz. Projeyi her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
 
-# Kurulum
-* İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
-* Daha sonra bir [MongoDB](http://mongodb.com) hesabı oluştur ve connection linki al.
-* Bu projeyi zip halinde indir herhangi bir klasöre zipi çıkar
-* Daha sonra `ayarlar.json` dosyasının içindeki bilgileri doldur.
-* Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
-* ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
+### Kurulum Aşamaları:
 
-# İletişim
-* [Discord Sunucum](https://discord.gg/claude)
-* [Discord Profilim](https://discord.com/users/545976310342746152)
-* [Discow Github](https://github.com/DiscowJS?tab=repositories)
-* [Discow Discord Profili](https://discord.com/users/746066222310883339)
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
+- [🛠 Gerekenler](#-gerekenler)
+- [📩 Kurulum](#-kurulum)
+- [🙏 Teşekkürler](#-teşekkürler)
 
-# Görseller
+#### 🛠 Gerekenler
 
-![image](https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png)
-![image](https://cdn.discordapp.com/attachments/828589873253449838/936245759123271750/unknown.png)
+İlk olarak botu kuracağınız Windows işletim sisteminde [Node.JS](https://nodejs.org/en/) kurulu olmalı. Son sürümü kurmanızda fayda var.anızda fayda var.
 
-### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır.
+#### 📩 Kurulum
+
+- İlk olarak projeyi kuracağınız sisteme indirin.
+- Daha sonra klasöre girip Shift + Sağ Tık yapıp oradan PowerShell penceresini buradan açın seçeneğine tıklayıp PowerShell penceresini açın.
+- npm i Komutunu kullanarak gerekli modülleri indirin ve indirme işleminin bitmesini bekleyin.
+
+#### 🙏 Teşekkürler
+
+Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Mail Göndererek**](mailto:emreecanbaltaa@icloud.com) ulaşabilirsiniz.
+
+ <details>
+    <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
+    <p align="center">
+      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png)
+      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png)
+      ![image](https://cdn.discordapp.com/attachments/828589873253449838/936245759123271750/unknown.png)
+  </p>
+  </details>
+  
+
