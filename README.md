@@ -10,7 +10,7 @@
 
 #### 🛠 Gerekenler
 
-İlk olarak botu kuracağınız Windows işletim sisteminde [Node.JS](https://nodejs.org/en/) kurulu olmalı. Son sürümü kurmanızda fayda var.anızda fayda var.
+İlk olarak botu kuracağınız Windows işletim sisteminde [Node.JS](https://nodejs.org/en/) kurulu olmalı. Son sürümü kurmanızda fayda var.
 
 #### 📩 Kurulum
 
