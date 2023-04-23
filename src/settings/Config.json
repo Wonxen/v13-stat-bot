@@ -1,0 +1,31 @@
+{
+  "System": {
+    "Prefix": [".","!"],
+    "Token": "",
+    "MongoDb": ""
+  },
+
+  "Bot": {
+    "Voice": "",
+    "Text": "Developed with ❤️ by Wonxen"
+  },
+
+  "Guild": {
+    "ID": ""
+  },
+
+  "Staff": {
+    "List": [
+      "972920818969505875"
+    ]
+  },
+
+  "Others": {
+    "Yes": "wxn_yes",
+    "Empty_Top": "bosson",
+    "Empty_Middle": "bosorta",
+    "Full_Bottom": "doluson",
+    "Full_Top": "dolubas",
+    "Full_Middle": "doluorta"
+  }
+}
