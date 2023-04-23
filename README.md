@@ -23,11 +23,20 @@
 Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Mail Göndererek**](mailto:emreecanbaltaa@icloud.com) ulaşabilirsiniz.
 
  <details>
-    <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
+    <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Eski Görseller</b></summary>
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245529938108456/unknown.png">
      <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245681675468820/unknown.png">
      <img src="https://cdn.discordapp.com/attachments/828589873253449838/936245759123271750/unknown.png">
+  </p>
+  </details>
+  
+   <details>
+    <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Yeni Görseller</b></summary>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1018013525882449965/1099569083885830185/image.png">
+     <img src="https://cdn.discordapp.com/attachments/1018013525882449965/1099569753108000849/image.png">
+     <img src="https://cdn.discordapp.com/attachments/1018013525882449965/1099569979315200010/image.png">
   </p>
   </details>
   
